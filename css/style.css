@@ -1,0 +1,17 @@
+body{
+    background-image: url(../assets/images/fondo.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-dark{
+    color: white;
+}
+
+#logo_titulo{
+    width: 10rem;
+    height: 10rem;}
+
+.encabezado{
+    inset-block-start:initial;
+}
